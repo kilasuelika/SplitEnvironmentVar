@@ -9,4 +9,4 @@ A Simple Tool to Split Long Windows Environment Variable
 
 ## Internal
 
-This tool will delete empty path before generating the batch file. Then using **setx** to set system environment.
+This tool will delete non-exist path before generating the batch file. Then using **setx** to set system environment.
