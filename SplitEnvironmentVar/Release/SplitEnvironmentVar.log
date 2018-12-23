@@ -1,0 +1,9 @@
+﻿  SplitEnvironmentVar.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+i:\c++\windowsprogrammin\splitenvironmentvar\splitenvironmentvar\splitenvironmentvar.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 326 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SplitEnvironmentVar.vcxproj -> I:\C++\WindowsProgrammin\SplitEnvironmentVar\Release\SplitEnvironmentVar.exe
